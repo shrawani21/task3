@@ -1,7 +1,7 @@
 # task3
 
 # Amazon Clone Website : 
-file:///C:/Users/kajal/Downloads/Amazon-clone-main/Amazon-clone-main/index.html
+https://github.com/shrawani21/task3/tree/main
 
 ## Overview:
 
