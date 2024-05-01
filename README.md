@@ -1,6 +1,7 @@
 # task3
 
-# Amazon Clone Website
+# Amazon Clone Website : 
+file:///C:/Users/kajal/Downloads/Amazon-clone-main/Amazon-clone-main/index.html
 
 ## Overview:
 
